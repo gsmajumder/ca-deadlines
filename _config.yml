@@ -3,7 +3,7 @@ description: Countdowns to top Computer Architecture/Hardware Design/High-Perfor
 author: gsmajumder
 
 domain: "gsmajumder.github.io/ca-deadlines"
-baseurl: "https://gsmajumder.github.io/ca-deadlines"
+baseurl: "/ca-deadlines"
 
 twitter_hashtag: machinelearning
 github_username: paperswithcode
