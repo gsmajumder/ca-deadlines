@@ -1,0 +1,16 @@
+- name: Computer Architecture
+  sub: CA
+  color: "#ffd300"
+- name: Hardware Design
+  sub: HW
+  color: "#deff0a"
+- name: High-Performance Computing
+  sub: HPC
+  color: "#0aefff"
+- name: Computer Security
+  sub: SEC
+  color: "#147df5"
+- name: Parallel Computing
+  sub: PAR
+  color: "#0aff99"
+

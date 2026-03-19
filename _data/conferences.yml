@@ -1,0 +1,60 @@
+- title: MICRO
+  year: 2026
+  id: micro2026
+  link: https://microarch.org/micro59
+  deadline: '2026-03-31 23:59:59'
+  abstract_deadline: 2026-04-07 23:59:59
+  timezone: EDT
+  place: Athens, Greece
+  date: October 31 - November 4, 2026
+  start: 2026-10-31
+  end: 2026-11-04
+  hindex: 100
+  sub: [CA, HW]
+  note: Abstract deadline on March 31, 2026. More info <a href='https://microarch.org/micro59/'>here</a>
+
+- title: ISCA
+  year: 2026
+  id: isca2026
+  link: https://iscaconf.org/isca2026
+  deadline: '2025-11-10 23:59:59'
+  abstract_deadline: '2025-11-17 23:59:59'
+  timezone: UTC-12
+  place: Raleigh, USA
+  date: June 27 - July 1, 2026
+  start: 2026-06-27
+  end: 2026-07-01
+  hindex: 389
+  sub: [CA, HW]
+  note: Abstract deadline on November 11, 2025. More info <a href='https://iscaconf.org/isca2026'>here</a>
+
+- title: ICCAD
+  year: 2026
+  id: iccad2026
+  link: https://iccad.com/2026
+  deadline: '2026-04-14 23:59:59'
+  abstract_deadline: '2026-04-07 23:59:59'
+  timezone: UTC-12
+  place: San Jose, California, USA
+  date: November 8-12, 2026
+  start: 2026-11-08
+  end: 2026-11-12
+  hindex: 389
+  sub: [HW]
+  note: Abstract deadline on April 07, 2025. More info <a href='https://iccad.com/2026'>here</a>
+
+- title: SC
+  year: 2026
+  id: SC2026
+  link: https://sc26.supercomputing.org
+  deadline: '2026-04-08 23:59:59'
+  abstract_deadline: '2026-04-01 23:59:59'
+  timezone: UTC-12
+  place: Chicago, IL, USA
+  date: November 15-20, 2026
+  start: 2026-11-15
+  end: 2026-11-20
+  hindex: 389
+  sub: [HPC]
+  note: Abstract deadline on April 07, 2025. More info <a href='https://sc26.supercomputing.org'>here</a>
+

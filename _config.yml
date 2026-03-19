@@ -1,0 +1,15 @@
+title: Computer Architecture, HPC, Security, Hardware Conference Deadlines
+description: Countdowns to top Computer Architecture/Hardware Design/High-Performance Computing conference deadlines.
+author: gsmajumder
+
+domain: "gsmajumder.github.io/ca-deadlines"
+baseurl: ""
+
+twitter_hashtag: machinelearning
+github_username: paperswithcode
+github_repo: ai-deadlines
+
+markdown: kramdown
+ga_id:
+
+include: ['_pages']
